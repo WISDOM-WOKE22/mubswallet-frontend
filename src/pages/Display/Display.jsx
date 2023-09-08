@@ -43,9 +43,9 @@ export default function () {
             className="ri-google-play-line"
           ></i>
         </p>
-        <p style={{ color: "white" }}>
-          Download the App from Google Play Store{" "}
-        </p>
+        {/* <p style={{ color: "white" }}>
+          Coming soon on Google Play Store{" "}
+        </p> */}
       </section>
       <section className="dealings-bg">
         <span>Security Ensured</span>
