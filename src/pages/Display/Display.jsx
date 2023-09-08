@@ -37,12 +37,12 @@ export default function () {
           padding: "20px",
         }}
       >
-        <p>
+        {/* <p>
           <i
             style={{ color: "white", fontSize: "1.5rem" }}
             className="ri-google-play-line"
           ></i>
-        </p>
+        </p> */}
         {/* <p style={{ color: "white" }}>
           Coming soon on Google Play Store{" "}
         </p> */}
