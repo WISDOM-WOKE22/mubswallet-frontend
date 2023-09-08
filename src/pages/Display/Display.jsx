@@ -27,7 +27,7 @@ export default function () {
           </button>
         </section>
       </nav>
-      <section
+      {/* <section
         className="download flex justify-center items-center"
         style={{
           backgroundColor: "black",
@@ -37,16 +37,16 @@ export default function () {
           padding: "20px",
         }}
       >
-        {/* <p>
+        <p>
           <i
             style={{ color: "white", fontSize: "1.5rem" }}
             className="ri-google-play-line"
           ></i>
-        </p> */}
-        {/* <p style={{ color: "white" }}>
+        </p>
+        <p style={{ color: "white" }}>
           Coming soon on Google Play Store{" "}
-        </p> */}
-      </section>
+        </p>
+      </section> */}
       <section className="dealings-bg">
         <span>Security Ensured</span>
       </section>
